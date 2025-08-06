@@ -13,3 +13,5 @@ Instantly generate beautiful wave transitions for your websites or designs.
 
 ## Try it live
 
+https://lukaspenz.github.io/svg-wave-generator/
+
